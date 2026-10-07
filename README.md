@@ -20,7 +20,6 @@ An explainable deep-learning framework combining pretrained CNNs, SE/CBAM attent
 - F1-score: **97.22%**
 - Accepted and presented at **IEEE RAAICON 2026**
 
-
 [View Repository](https://github.com/mahfuz1715/CaneScan-XAI)
 
 ---
@@ -35,7 +34,6 @@ A comparative study of YOLOv8 and YOLO26 for wheat-head detection, cross-domain 
 - Counting MAE: **8.085**
 - Accepted for presentation at **IEEE WIECON-ECE 2026**
 
-
 [View Repository](https://github.com/mahfuz1715/WheatHead-26M)
 
 ---
@@ -48,7 +46,6 @@ A medical imaging study exploring supervised, self-supervised, and semi-supervis
 - BYOL-VGG16 accuracy: **95.63%**
 - F1-score: **95.62%**
 - Accepted for oral presentation as a regular paper at **IEEE CSNT 2027**
-
 
 [View Repository](https://github.com/mahfuz1715/LumaRep)
 
@@ -67,6 +64,5 @@ I am currently strengthening my research experience in computer vision and trust
 
 ## Connect
 
-- GitHub: [mahfuz1715](https://github.com/mahfuz1715)
-- LinkedIn: Add LinkedIn profile link
-
+- **GitHub:** [mahfuz1715](https://github.com/mahfuz1715)
+- **LinkedIn:** [Mahfuz Uddin Ahmed](https://www.linkedin.com/in/mahfuz-uddin-ahmed)
